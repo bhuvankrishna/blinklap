@@ -3,4 +3,4 @@ The python code should run under superuser aka root. Be careful while running th
 
 This is to have fun. And please improve the code if you like it.
 
-check the path. This is the path for led device for thinkpad e431 this is the path if you have asus or dell please check the corresponding documents or search the web.
+check the path. Path for led device for thinkpad e431 `/proc/acpi/ibm/led`. please check the corresponding documents or search the web.
